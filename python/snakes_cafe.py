@@ -35,16 +35,6 @@ def end_application():
     print("thanks for using snakes cafe application !")   
 ##----------------------------------------------------
 orders = {}
-# number=number.strip().capitalize()
-# for item in menu:
-#     if item in orders:
-#         orders[item] += 1
-#     else:
-#         orders[item] = 1
-
-# for item, count in orders.items():
-#     print(f"{item}: {count}")
-##----------------------------------------------------
 
 def main():
     user_input=""
